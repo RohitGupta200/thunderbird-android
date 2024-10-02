@@ -1,2 +1,0 @@
-- Corregido fallo al activar el modo de pantalla dividida
-- Traducciones actualizadas

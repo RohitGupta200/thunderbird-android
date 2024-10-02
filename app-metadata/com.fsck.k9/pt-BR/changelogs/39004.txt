@@ -1,2 +1,0 @@
-- Foi corrigido um crash quando o modo de tela separada está ativado
-- Traduções atualizadas

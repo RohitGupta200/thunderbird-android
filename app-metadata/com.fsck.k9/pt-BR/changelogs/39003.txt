@@ -1,1 +1,0 @@
-- Foi corrigido um crash quando a ação de deslizar da lista de mensagens era definida em "Nenhuma"

@@ -1,3 +1,0 @@
-#!/bin/sh
-
-./gradlew --quiet ":cli:resource-mover-cli:installDist" < /dev/null && ./cli/resource-mover-cli/build/install/resource-mover-cli/bin/resource-mover-cli "$@"

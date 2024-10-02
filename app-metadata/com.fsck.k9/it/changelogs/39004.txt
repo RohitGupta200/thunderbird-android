@@ -1,2 +1,0 @@
-- Risolto il problema relativo al crash quando è abilitata la modalità schermo diviso
-- Traduzioni aggiornate

@@ -1,2 +1,0 @@
-- Memperbaiki kerusakan saat mode layar terbagi diaktfkan
-- Memperbarui terjemahan

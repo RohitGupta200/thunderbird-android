@@ -1,1 +1,0 @@
-- Een crash opgelost bij het openen van het scherm om een bericht samen te stellen

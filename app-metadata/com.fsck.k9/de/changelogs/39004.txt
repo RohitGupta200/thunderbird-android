@@ -1,2 +1,0 @@
-- Absturz behoben, wenn der geteilte Bildschirmmodus aktiviert ist
-- Aktualisierte Übersetzungen

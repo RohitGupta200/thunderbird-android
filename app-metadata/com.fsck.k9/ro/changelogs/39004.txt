@@ -1,2 +1,0 @@
-- S-a remediat blocarea atunci când modul ecran divizat este activat
-- Traduceri actualizate

@@ -1,1 +1,0 @@
-- Se ha corregido un fallo cuando al deslizar una lista de mensajes se establecía en «Ninguna»
