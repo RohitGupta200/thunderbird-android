@@ -1,0 +1,14 @@
+package app.k9mail.provider
+
+import androidx.compose.runtime.Composable
+import app.k9mail.core.ui.compose.theme2.k9mail.K9MailTheme2
+import app.k9mail.core.ui.theme.api.FeatureThemeProvider
+
+class K9FeatureThemeProvider : FeatureThemeProvider {
+    @Composable
+    override fun WithTheme(content: @Composable () -> Unit) {
+        K9MailTheme2 {
+            content()
+        }
+    }
+}
